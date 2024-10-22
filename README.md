@@ -1,7 +1,7 @@
 # Random Number Dashboard with Multithreading
 
 
-##Description
+## Description
 This project demonstrates a Random Number Dashboard that displays six boxes where each box shows a random number generated from a specified range. Each number refreshes at a different interval using multithreading to ensure the GUI remains responsive.
 ---
 ## Input
@@ -37,4 +37,6 @@ Here’s what the dashboard looks like:
 1. Clone the repository.
    ```bash
    git clone <repository-url>
-2. python main.py   
+2. Run the Python Script:
+   ```bash
+   python main.py
